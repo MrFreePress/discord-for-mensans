@@ -127,6 +127,18 @@ article a:hover {
     padding: 1.25rem 3rem;
 }
 
+.cta-secondary {
+    font-size: 1.25rem;
+    padding: 1.25rem 3rem;
+    background-color: #1863DC;
+    border-color: #1863DC;
+}
+
+.cta-secondary:hover {
+    background-color: #FAAA00;
+    border-color: #FAAA00;
+}
+
 .footer-cta {
     text-align: center;
     margin-bottom: 2rem;
